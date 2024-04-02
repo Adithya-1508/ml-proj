@@ -1,2 +1,2 @@
-# ml-proj
-Machine Learning Project-LLM chatbot
+# gemini-pro-streamlit-chatbot
+This repository is about building a chatbot using Google's Gemini-Pro with streamlit.
